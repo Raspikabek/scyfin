@@ -59,6 +59,10 @@ input:not(.mdl-slider) {
     border: 2px solid var(--outline-color) !important;
 }
 
+textarea {
+    color: rgba(255, 255, 255, 0.8);
+}
+
 .navMenuOption:hover:not(.navMenuOption-selected) {
     background: var(--tertiary-background-color) !important;
 }
