@@ -700,6 +700,7 @@ html,
 .listItemIcon:not(.listItemIcon-transparent):not(.notification_important) {
     background: var(--secondary-accent-color) !important;
     color: var(--primary-accent-color) !important;
+    border-radius: 50% !important;
 }
 .MuiList-root:not(.MuiList-subheader) .MuiListItemButton-root.MuiListItemButton-gutters {
     padding: 20px 38px 10px 38px !important;
